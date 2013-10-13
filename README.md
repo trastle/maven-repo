@@ -16,3 +16,7 @@ Add the following to your pom.xml
         	</snapshots>
     	</repository>
 	</repositories>
+	
+	
+### More Info
+* [http://stackoverflow.com/questions/14013644/hosting-a-maven-repository-on-github](http://stackoverflow.com/questions/14013644/hosting-a-maven-repository-on-github)
