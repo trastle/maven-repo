@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.cloudfoundry-community</groupId>
+  <artifactId>cf-nats</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131013000456</lastUpdated>
+  </versioning>
+</metadata>
